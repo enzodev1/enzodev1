@@ -1,14 +1,13 @@
 
-<img src="https://i.ytimg.com/vi/4GD9bY1hLUQ/maxresdefault.jpg">
+<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/03/Bikini-Bottom-SpongeBob.jpg">
 
 
 
 
 <p align="center">
-- 👋 Salut, je suis @enzodev1 <br>
-- 💻 Développeur Amateur, JavaScript, Python, Html & CSS et Java <br>
-- 🌱 Éleveur et fièr <br>
+- 👋 Salut, Enzo, Enchanté, <br>
+- 💻 J'ai longtemps aimé la bidouille, aujourd'ui j'en fait moins, mais j'aime toujours ça <br>
+- 🌱 Qui à dis que les habitants des campagnes ne savaient pas se servir d'internet ? <br>
 - ⚔ Vendéen <br>
-- 📫 Discord : Enzo#2950 
 </p>
 
